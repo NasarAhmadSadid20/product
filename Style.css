@@ -5,13 +5,13 @@ body {
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: 100vh;
+  height: 99vh;
   background-color: rgb(250, 243, 233);
   box-sizing: border-box;
   font-family: Google Sans Medium;
 }
 .main {
-  width: 660px;
+  width: 670px;
   height: 470px;
   border-radius: 10px;
   display: flex;
@@ -28,12 +28,12 @@ body {
 }
 .right {
   width: 50%;
-  height: 470px;
+  height: 480px;
   background-color: #fff;
 }
 .div1 p {
   margin-left: 40px;
-  margin-top: 30px;
+  margin-top: 35px;
   color: rgb(130, 128, 1 28);
 }
 .div2 h1 {
@@ -42,7 +42,7 @@ body {
 .div3 p {
   margin-left: 40px;
   color: rgb(130, 128, 128);
-  line-height: 25px;
+  line-height: 26px;
 }
 
 .div4 {
