@@ -5,14 +5,14 @@ body {
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: 99vh;
-  background-color: rgb(250, 243, 233);
+  height: 100vh;
+  background-color: rgb(252, 243, 233);
   box-sizing: border-box;
   font-family: Google Sans Medium;
 }
 .main {
   width: 670px;
-  height: 470px;
+  height: 490px;
   border-radius: 10px;
   display: flex;
 }
@@ -28,7 +28,7 @@ body {
 }
 .right {
   width: 50%;
-  height: 480px;
+  height: 490px;
   background-color: #fff;
 }
 .div1 p {
